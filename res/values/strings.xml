@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Chordier</string>
+    <string name="change">Change</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="frequency_choices">
+        <item>Beat</item>
+        <item>Half</item>
+        <item>Measure</item>
+    </string-array>
+
+    <string name="home_info">Welcome to Chordier! \n
+        This app is designed to help musicians and song writers with
+        the sometimes difficult task of creating chord progressions.
+        Chordier currently provides two services: a chord progression
+        builder, and a melody builder. These can work for all major
+        and minor keys and all diatonic chords.
+    </string>
+
+    <string name="chord_info">Chord Progression Builder \n
+        Here you can create your own chord progression. Click the plus
+        button to add a new chord and start writing. If you get stuck
+        or would like some assistance, click the bottom of the screen
+        to filter the best chords specific to your own progression.
+    </string>
+
+    <string name="melody_info">Melody Builder \n
+        Here you can generate chord progressions to support your melodies.
+        Use the grid to punch in your melody. Each column counts for one
+        sixteenth note. To help, beats are counted for you below. Empty
+        columns are treated as rests and sustained notes can be represented
+        by selecting strings of the same note.
+    </string>
+</resources>
